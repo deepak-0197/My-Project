@@ -1,0 +1,3 @@
+AWS - Test@ing0197
+
+Docker → Git → Linux basics → Terraform → Kubernetes → Azure DevOps → Monitoring → Ansible/Jenkins → Advanced DevOps
